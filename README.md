@@ -6,3 +6,5 @@ Web-240-3483 Responsive Design
 -added @media queries in css for a tablet and mobile devices
 
 -changed the max-widith in tablet and mobile 
+
+-added to the css so the size of the menu, logo, and footer to better fit in the tablet size
