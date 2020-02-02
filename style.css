@@ -222,22 +222,23 @@ footer ul{
 
 /*mobiles*/
 @media screen and (max-width: 480px){
-
+ /* changed the featured li to one column*/
 #featured li{
 	width: 90%;
 	margin: 20px 5%;
 	}
-	
+	 /* changed the footer to one column*/
 footer ul{
 	width: 98%;
 	text-align: center;
 }
+	 /* changed the menu items to one column*/
 #home-menu li{
 		float: none;
 		width: 96%;
 		margin: 30px 2% !important;
 	}
-	
+	/* centered the banner and made it larger*/
 	#main-banner img{
 		position: relative;
 		widows: 100%;
