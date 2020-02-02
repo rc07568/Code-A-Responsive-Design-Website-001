@@ -8,3 +8,5 @@ Web-240-3483 Responsive Design
 -changed the max-widith in tablet and mobile 
 
 -added to the css so the size of the menu, logo, and footer to better fit in the tablet size
+
+-changed css for mobile. reposition the footter, home-menu, main-banner and feature li to make them one column in mobile size screen 
