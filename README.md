@@ -9,4 +9,9 @@ Web-240-3483 Responsive Design
 
 -added to the css so the size of the menu, logo, and footer to better fit in the tablet size
 
+02/02/2020
+
 -changed css for mobile. reposition the footter, home-menu and feature li to make them one column in mobile size screen and centerd the banner and made it larger
+
+-added collapsible menu in mobile screen, added jquery in menu.js and index.html to expand menu, 
+added css to create a collapsible menu, added a .png file to create icon
